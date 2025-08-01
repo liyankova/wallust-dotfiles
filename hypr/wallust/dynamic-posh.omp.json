@@ -1,0 +1,68 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "properties": {
+            "arch": "\uf303",
+            "cache_duration": "none",
+            "linux": "\ue712",
+            "windows": "\ue70f"
+          },
+          "leading_diamond": "\u256d\u2500\ue0b2",
+          "template": " {{ .Icon }} ",
+          "foreground": "{{foreground}}",
+          "background": "{{color4}}",
+          "type": "os",
+          "style": "diamond"
+        },
+        {
+          "properties": {
+            "cache_duration": "none"
+          },
+          "template": " {{ .UserName }} ",
+          "foreground": "{{background}}",
+          "powerline_symbol": "\ue0b0",
+          "background": "{{color7}}",
+          "type": "session",
+          "style": "powerline"
+        },
+        {
+          "properties": {
+            "cache_duration": "none",
+            "max_depth": 3,
+            "style": "agnoster_short"
+          },
+          "template": " \uf115 {{ .Path }} ",
+          "foreground": "{{foreground}}",
+          "powerline_symbol": "\ue0b0",
+          "background": "{{color2}}",
+          "type": "path",
+          "style": "powerline"
+        },
+        {
+          "properties": {
+            "cache_duration": "none",
+            "fetch_status": true
+          },
+          "leading_diamond": "<transparent,background>\ue0b0</>",
+          "trailing_diamond": "\ue0b0",
+          "template": " {{ .HEAD }} ",
+          "foreground": "{{foreground}}",
+          "background": "{{color3}}",
+          "type": "git",
+          "style": "diamond",
+          "background_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#a97400{{ end }}"
+          ]
+        }
+      ],
+      "newline": true
+    }
+  ],
+  "version": 3,
+  "final_space": true
+}

@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "9a64168243fc57fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c435233d94cb4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e9e90694457f08",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ae3e43c595fe8eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux-environment/aur-list/aur-list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aur-list"
+            }
+          },
+          {
+            "id": "d548700e01763653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux-environment/aur-list/base-devel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "base-devel"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62a352c4e3f0d46d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b443db384e6ebd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da587ee1f464bec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3e6b26447189d56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e49f4001ec1bad1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "70d4b74d2abccb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fd1d1cb393078c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146504befaef0323",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "5a2493c096f0d2b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d9d2ac0aef12b66c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86f64843c847c89f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d548700e01763653",
+  "lastOpenFiles": [
+    "linux-environment/aur-list/aur-list.md",
+    "linux-environment/aur-list/cava.md",
+    "linux-environment/aur-list/base-devel.md",
+    "linux-environment/distrobox.md",
+    "linux-environment/aur-list/fastfetch.md",
+    "linux-environment/aur-list/git.md",
+    "linux-environment/aur-list/github-cli.md",
+    "linux-environment/aur-list/grub.md",
+    "linux-environment/aur-list/just.md",
+    "linux-environment/aur-list/less.md",
+    "linux-environment/aur-list/luarocks.md",
+    "linux-environment/aur-list/openssh.md",
+    "linux-environment/aur-list/os-prober.md",
+    "linux-environment/aur-list/pavucontrol.md",
+    "linux-environment/aur-list/podman.md",
+    "linux-environment/aur-list/reflector.md",
+    "linux-environment/aur-list/which.md",
+    "linux-environment/aur-list/tmux.md",
+    "linux-environment/aur-list/yt-dlp.md",
+    "linux-environment/aur-list/other-aur.md",
+    "linux-environment/aur-list/wlogout.md",
+    "linux-environment/aur-list/waybar.md",
+    "linux-environment/aur-list/swww.md",
+    "linux-environment/aur-list/swaync.md",
+    "linux-environment/aur-list/obsidian.md",
+    "linux-environment/aur-list/nvtop.md",
+    "linux-environment/aur-list",
+    "linux-environment/paru-list",
+    "linux-environment"
+  ]
+}

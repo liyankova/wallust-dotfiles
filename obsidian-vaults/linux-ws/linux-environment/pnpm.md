@@ -8,7 +8,7 @@ tags:
 aliases: ["pnpm package manager"]
 creation_date: 2025-08-06
 ---
-
+?
 # pnpm: Performant npm
 
 `pnpm` is a fast, disk space-efficient package manager for Node.js projects. It's my default choice over `npm` or `yarn` for several key reasons.

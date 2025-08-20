@@ -7,7 +7,6 @@ tags:
 aliases: ["My Installed Packages", "Explicitly Installed Packages"]
 creation_date: 2025-08-06
 ---
-
 # My Core Installed Packages Index
 
 This is a curated index of the most important, user-facing packages that I have explicitly installed on my [[EndeavourOS]] system.

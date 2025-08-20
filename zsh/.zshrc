@@ -19,6 +19,10 @@ export PATH="$PNPM_HOME:$PATH"
 export PATH="$HOME/.local/bin:$PATH" # Dari pipx
 export PATH="$PATH:$HOME/SDKs/flutter/bin"
 export PATH="$PATH:$ANDROID_HOME/platform-tools"
+     export GOROOT=/usr/lib/go
+    export GOPATH=$HOME/go
+    export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
 
 # ===================================================================
 # 3. OH MY ZSH CONFIGURATION
@@ -67,6 +71,8 @@ alias hydecor='nvim ~/.config/hypr/UserConfigs/UserDecorations.conf'
 alias nvkitty='nvim ~/.config/kitty/kitty.conf'
 alias cdwaybar='cd ~/.config/waybar'
 
+
+alias arch='distrobox enter dev-box'
 # -- Custom Functions --
 mkcd () {
     mkdir -p "$@" && cd "$_";

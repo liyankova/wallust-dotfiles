@@ -1,21 +1,21 @@
 {
   "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
   "palette": {
-    "os_bg": "#2F709F",
-    "os_fg": "#F9E6DC",
-    "session_bg": "#EED3C4",
-    "session_fg": "#3F4047",
-    "path_bg": "#0A1E4D",
-    "path_fg": "#F9E6DC",
-    "git_bg": "#B38A74",
-    "git_fg": "#F9E6DC",
-    "git_changed_bg": "#7B7D92",
-    "git_ahead_behind_bg": "#164582",
-    "git_ahead_bg": "#3F95D4",
-    "git_behind_bg": "#3F95D4",
-    "time_bg": "#2F709F",
-    "time_fg": "#F9E6DC",
-    "prompt_fg": "#2F709F"
+    "os_bg": "#633A73",
+    "os_fg": "#F6DED7",
+    "session_bg": "#E9C7BD",
+    "session_fg": "#49454A",
+    "path_bg": "#4F262A",
+    "path_fg": "#F6DED7",
+    "git_bg": "#AB7869",
+    "git_fg": "#F6DED7",
+    "git_changed_bg": "#9B4A74",
+    "git_ahead_behind_bg": "#563264",
+    "git_ahead_bg": "#844D99",
+    "git_behind_bg": "#844D99",
+    "time_bg": "#633A73",
+    "time_fg": "#F6DED7",
+    "prompt_fg": "#633A73"
   },
   "blocks": [
     {

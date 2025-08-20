@@ -53,6 +53,13 @@ kitty.target = '~/.config/kitty/kitty-themes/01-Wallust.conf'
 posh.template = 'dynamic-posh.omp.json.wallust'
 posh.target = '~/.config/oh-my-posh/themes/wallust.omp.json'
 
+### ANIMATED WALLUST WAYBAR ###
+chroma-tally.template = 'waybarstyle/chroma-tally.css.wallust'
+chroma-tally.target = '~/.config/waybar/style/[Wallust]-chroma-tally.css'
+
+# dark-latte-combined.template = 'waybarstyle/dark-latte-combined.css.wallust'
+# dark-latte-combined.target = '~/.config/waybar/style/[Dark]-Latte-Wallust-combined.css'
+#
 #swaync.template = 'colors-swaync.css'
 #swaync.target = '~/.config/swaync/wallust/colors-wallust.css'
 

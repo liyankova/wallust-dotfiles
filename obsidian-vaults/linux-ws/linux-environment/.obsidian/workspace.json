@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "cff812c88c983ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bd35146730786d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b2df8875f0ee92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aur-list/aur-list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aur-list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7671e06ff054427f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8699ab2bede724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3530cbf7bef0ecc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b3135ce15f9bb4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "327678d8250f795f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "266d71cb880ae57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e790b2caa26d7489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a8848866ff378c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "aur-list/aur-list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for aur-list"
+            }
+          },
+          {
+            "id": "a06df1b50d712cbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "aur-list/aur-list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from aur-list"
+            }
+          },
+          {
+            "id": "7ba3f5c5015068b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bcd4105003a0064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "aur-list/aur-list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of aur-list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "74b2df8875f0ee92",
+  "lastOpenFiles": [
+    "paru-list/paru-list.md",
+    "pnpm.md",
+    "Volta.md",
+    "aur-list/aur-list.md"
+  ]
+}
